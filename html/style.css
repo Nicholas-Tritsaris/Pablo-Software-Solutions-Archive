@@ -1,0 +1,56 @@
+/* CSS definition file containing sitestyle stylesheets */
+BODY { font-family: Arial,  Helvetica,  Geneva,  Sans-serif,  sans-serif; font-size: 14px}
+ A:active { font-family: Arial,  Helvetica,  Geneva,  Sans-serif,  sans-serif; font-size: 14px; color: rgb(63,125,211)}
+ A:link { font-family: Arial,  Helvetica,  Geneva,  Sans-serif,  sans-serif; font-size: 14px; color: rgb(63,125,211)}
+ UL { font-family: Arial,  Helvetica,  Geneva,  Sans-serif,  sans-serif; font-size: 14px}
+ A:visited { font-family: Arial,  Helvetica,  Geneva,  Sans-serif,  sans-serif; font-size: 14px; color: rgb(63,125,211)}
+ .TextObject { font-family: Arial,  Helvetica,  Geneva,  Sans-serif,  sans-serif; font-size: 14px}
+ H1 { font-family: Arial,  Helvetica,  Geneva,  Sans-serif,  sans-serif; font-size: 28px;
+	font-weight : normal;
+	font-style : normal;
+	letter-spacing : 1px}
+ H2 { font-family: Arial,  Helvetica,  Geneva,  Sans-serif,  sans-serif; font-size: 24px}
+ P { font-family: Arial,  Helvetica,  Geneva,  Sans-serif,  sans-serif; font-size: 14px}
+ H3 { font-family: Arial,  Helvetica,  Geneva,  Sans-serif,  sans-serif; font-size: 20px}
+ OL { font-family: Arial,  Helvetica,  Geneva,  Sans-serif,  sans-serif; font-size: 14px}
+ H4 { font-family: Arial,  Helvetica,  Geneva,  Sans-serif,  sans-serif; font-size: 16px}
+ .TextNavBar { font-family: Arial,  Helvetica,  Geneva,  Sans-serif,  sans-serif; font-size: 14px; color: rgb(102,102,102)}
+ H5 { font-family: Arial,  Helvetica,  Geneva,  Sans-serif,  sans-serif; font-size: 14px}
+ H6 { font-family: Arial,  Helvetica,  Geneva,  Sans-serif,  sans-serif; font-size: 14px}
+ .nof_PeacefulBlueShadesV1Banners1-Banner1 {
+font-family:Arial; font-size:18; font-weight:700; font-style:normal; color:#ffffff 
+}
+
+.nof_PeacefulBlueShadesV1Navbar2-Regular {
+font-family:Arial; font-size:11; font-weight:400; font-style:normal; color:#333333 
+}
+
+.nof_PeacefulBlueShadesV1Navbar4-Rollover {
+font-family:Arial; font-size:11; font-weight:400; font-style:normal; color:#333333 
+}
+
+.nof_PeacefulBlueShadesV1Navbar6-Highlighted {
+font-family:Arial; font-size:11; font-weight:400; font-style:normal; color:#333333 
+}
+
+.nof_PeacefulBlueShadesV1Navbar8-HighlightedRollover {
+font-family:Arial; font-size:11; font-weight:400; font-style:normal; color:#999999 
+}
+
+.nof_PeacefulBlueShadesV1Navbar3-Regular {
+font-family:Arial; font-size:11; font-weight:400; font-style:normal; color:#333333 
+}
+
+.nof_PeacefulBlueShadesV1Navbar5-Rollover {
+font-family:Arial; font-size:11; font-weight:400; font-style:normal; color:#333333 
+}
+
+.nof_PeacefulBlueShadesV1Navbar7-Highlighted {
+font-family:Arial; font-size:11; font-weight:400; font-style:normal; color:#333333 
+}
+
+.nof_PeacefulBlueShadesV1Navbar9-HighlightedRollover {
+font-family:Arial; font-size:11; font-weight:400; font-style:normal; color:#6699cc 
+}
+A:hover { font-family: Arial,  Helvetica,  Geneva,  Sans-serif,  sans-serif; font-size: 14px; color: rgb(0,51,153)}
+ 
